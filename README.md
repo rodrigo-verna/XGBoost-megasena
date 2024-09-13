@@ -5,6 +5,8 @@
 
 Este modelo, para fins de estudos, tem como objetivo prever os números com alguma chance de serem sorteados em futuros concursos da Mega-Sena, utilizando o algoritmo de machine learning **XGBoost**. O modelo é treinado com dados históricos de concursos anteriores, aproveitando uma variedade de features, como a frequência dos números, distribuição entre pares e ímpares, agrupamento por regiões, entre outras métricas derivadas. O projeto inclui código para treinar o modelo, avaliar seu desempenho e fornecer recomendações dos 20 números com maior probabilidade de serem sorteados nos próximos concursos.
 
+**NÃO SE ENGANE!** A aletoriedade da Mega-Sena e das loterias em geral impede qualquer modelo matemático prever números com exatidão. 
+
 ## Funcionalidades
 
 - **Pré-processamento de Dados**: Os dados históricos são limpos e enriquecidos com novas features, como o número de pares/ímpares sorteados, desvio padrão e agrupamentos de números por regiões.
